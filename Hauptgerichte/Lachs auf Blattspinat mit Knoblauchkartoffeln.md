@@ -9,8 +9,7 @@ Lachs auf Blattspinat mit Knoblauchkartoffeln
 * 1 Becher Schmand
 * 1 Becher Sahne
 * 50 g Schmelzkäse
-* Salz, Pfeffer
-* Öl
+* Salz, Pfeffer, Öl
 
 Die Kartoffeln in der Schale sehr sauber bürsten. Anschließend senkrecht in
 dünne Scheibchen (ca. 3 mm) schneiden. Eine kleine Auflaufform mit etwas Öl
