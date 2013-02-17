@@ -1,11 +1,12 @@
 var fs = require('fs');
+var blacklist = [ '.git' ];
 
 function readDir(dir, index){
   var links = [];
   fs.readdirSync(dir).forEach(function(item){
     var fullPath = (dir === '.' ? '' : dir + '/') + item;
     var stat = fs.statSync(fullPath);
-    if(stat.isDirectory()){
+    if(stat.isDirectory() && blacklist.indexOf(item) === -1){
       index[item] = readDir(item);
     }
     else if(stat.isFile()){
