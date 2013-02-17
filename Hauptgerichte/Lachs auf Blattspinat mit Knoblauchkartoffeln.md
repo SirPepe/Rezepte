@@ -1,8 +1,10 @@
 Lachs auf Blattspinat mit Knoblauchkartoffeln
 =============================================
 
+Für 2 Personen:
+
 * 5 dicke festkochende (Früh-)Kartoffeln
-* 2-4 Lachssteaks
+* 2 Lachssteaks
 * 300 g TK-Blattspinat
 * mindestens 6 Knoblauchzehen
 * 2 TL frische Rosmarinnadeln
