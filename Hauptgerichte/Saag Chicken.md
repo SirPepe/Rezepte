@@ -3,23 +3,23 @@ Saag Chicken
 
 Für vier Personen:
 
-500 - 600 g Geflügelfleisch ohne Haut
-300 ml Tomatenpüree
-300 g TK-Rahmspinat
-6 Kardamomkapseln, grün
-3 EL Ingwerpaste
-1 ½ EL Knoblauchpaste
-3 Nelken
-1 ½ TL Chilipulver
-1 ½ TL Kurkuma
-1 ½ Zwiebeln
-3 EL Milch
-3 EL Butter
-¾ TL Cayennepfeffer
-¾ TL Korianderpulver
-¾ TL Kurkuma
-1 ½ TL Garam Masala
-Salz, Öl
+* 500 - 600 g Geflügelfleisch ohne Haut
+* 300 ml Tomatenpüree
+* 300 g TK-Rahmspinat
+* 6 Kardamomkapseln, grün
+* 3 EL Ingwerpaste
+* 1 ½ EL Knoblauchpaste
+* 3 Nelken
+* 1 ½ TL Chilipulver
+* 1 ½ TL Kurkuma
+* 1 ½ Zwiebeln
+* 3 EL Milch
+* 3 EL Butter
+* ¾ TL Cayennepfeffer
+* ¾ TL Korianderpulver
+* ¾ TL Kurkuma
+* 1 ½ TL Garam Masala
+* Salz, Öl
 
 Den Rahmspinat auftauen (gehackter frischer Spinat geht auch, dann die Menge
 Milch nach Gusto erhöhen).
