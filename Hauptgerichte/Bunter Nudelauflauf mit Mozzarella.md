@@ -18,7 +18,7 @@ Für vier Personen. Zubereitungszeit ca. 1 Stunde
 
 Nudeln in reichlich kochendem Salzwasser ca. 10-12 Minuten bissfest garen.
 
-Broccoli putzen, waschen, in Röschen teilen. In kochendem Salzwasser ca. 5 Minuten blachieren und abtropfen lassen.
+Broccoli putzen, waschen, in Röschen teilen. In kochendem Salzwasser ca. 5 Minuten blanchieren und abtropfen lassen.
 
 Champignons putzen, waschen und ggf. teilen.
 
