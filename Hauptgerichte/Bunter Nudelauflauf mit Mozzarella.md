@@ -1,8 +1,7 @@
 Bunter Nudelauflauf mit Mozzarella
 ==================================
 
-Für vier Personen
-Zubereitungszeit ca. 1 Stunde
+Für vier Personen. Zubereitungszeit ca. 1 Stunde
 
 * 250 g Bandnudeln
 * 375 g Broccoli
