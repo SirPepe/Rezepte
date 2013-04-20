@@ -10,7 +10,8 @@ function readDir(dir, index){
       index[item] = readDir(item);
     }
     else if(stat.isFile()){
-      links.push('[' + item + '](' + fullPath + ')');
+      var itemName = item.substring(0, item.length - 3);
+      links.push('[' + itemName + '](' + fullPath + ')');
     }
   });
   return links;
