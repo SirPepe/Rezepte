@@ -10,7 +10,7 @@ Für 2 Personen:
 * 8 Knoblauchzehen
 * Chilischoten, geraspelt
 * etwas heißes Wasser
-* Korianderpulver, Currypulver (Hot Madras) Kurkuma, Kreuzkümmel (Cumin)
+* Korianderpulver, Currypulver (Hot Madras), Kurkuma, Kreuzkümmel (Cumin)
 * Öl, Salz, schwarzer Pfeffer aus der Mühle
 
 Fleisch in gleichgroße Würfel schneiden, ordentlich pfeffern, etwas zerstoßenen Kreuzkümmel dazu geben. 3 Knoblauchzehen fein hacken, dazugeben und mindestens 1 Stunde, am besten aber über Nacht ziehen lassen.
