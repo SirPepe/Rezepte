@@ -3,13 +3,13 @@ Naan
 
 Indisches Fladenbrot. Als Beilage für 4 Personen:
 
-250 g Mehl
-75 ml lauwarme Milch
-1 TL Trockenhefe
-½ TL Backpulver
-75 ml Vollmilchjoghurt, leicht geschlagen
-1 mittleres Ei, leicht geschlagen
-Pflanzenöl, Zucker, Salz, Mehl zum Ausrollen
+* 250 g Mehl
+* 75 ml lauwarme Milch
+* 1 TL Trockenhefe
+* ½ TL Backpulver
+* 75 ml Vollmilchjoghurt, leicht geschlagen
+* 1 mittleres Ei, leicht geschlagen
+* Pflanzenöl, Zucker, Salz, Mehl zum Ausrollen
 
 Die lauwarme Milch (nicht über 30 Grad) in eine Schüssel gießen, einen
 gestrichenen TL Zucker und die Hefe einrühren. An einem warmen Ort ca. 20
