@@ -25,6 +25,7 @@ Hauptgerichte
 * [Bunter Nudelauflauf mit Mozzarella](Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md)
 * [Chili-Rindfleisch-Topf](Hauptgerichte/Chili-Rindfleisch-Topf.md)
 * [Indisches Curry](Hauptgerichte/Indisches Curry.md)
+* [Kartoffel-Spinat-Curry](Hauptgerichte/Kartoffel-Spinat-Curry.md)
 * [Lachs auf Blattspinat mit Knoblauchkartoffeln](Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md)
 * [Pfefferrahmgeschnetzeltes zu Bandnudeln](Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md)
 * [Saag Chicken](Hauptgerichte/Saag Chicken.md)
