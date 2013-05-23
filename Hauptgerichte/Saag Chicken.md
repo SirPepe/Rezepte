@@ -3,12 +3,12 @@ Saag Chicken
 
 Für vier Personen:
 
-* 500 - 600 g Geflügelfleisch ohne Haut
+* 500 - 600 g Geflügelfleisch
 * 300 ml Tomatenpüree
 * 300 g TK-Rahmspinat
-* 6 Kardamomkapseln, grün
-* 3 EL Ingwerpaste
-* 1 ½ EL Knoblauchpaste
+* 6 Kardamomkapseln, grün (bzw. ½ TL gemahlen)
+* 3 EL Ingwerpaste (bzw. 15 g fein gewürfelt)
+* 1 ½ EL Knoblauchpaste (bzw. 4 Zehen fein gewürfelt)
 * 3 Nelken
 * 1 ½ TL Chilipulver
 * 1 ½ TL Kurkuma
@@ -22,14 +22,14 @@ Für vier Personen:
 * Salz, Öl
 
 Den Rahmspinat auftauen (gehackter frischer Spinat geht auch, dann die Menge
-Milch nach Gusto erhöhen).
+Milch nach Gusto erhöhen). Gewürzmischung aus dem Salz, Cayennepulver,
+Korianderpulver, Kurkuma, Nelken und Kardamomkapseln anlegen.
 
 Das Geflügelfleisch in mittelkleine Stücke schneiden und mit Chilipulver und
 Kurkuma einreiben, dann in wenig Öl braten bis es leicht braun ist. Danach das
 Fleisch aus der Pfanne nehmen, zu dem Öl die Ingwerpaste, die Knoblauchpaste und
 die Zwiebeln geben und braten, bis es leicht braun ist. Jetzt die pürierten
-Tomaten, Salz, Cayennepulver, Korianderpulver, Kurkuma, Nelken und
-Kardamomkapseln zugeben und einen EL Wasser drüber geben. Für 10 Minuten auf
+Tomaten, die Gewürzmischung und einen EL Wasser drüber geben. Für 10 Minuten auf
 kleiner Hitze köcheln. Danach das Geflügelfleisch und die Milch zugeben und
 köcheln, bis das Fleisch durch ist.
 
