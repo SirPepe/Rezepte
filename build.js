@@ -11,7 +11,7 @@ function readDir(dir, index){
     }
     else if(stat.isFile()){
       var itemName = item.substring(0, item.length - 3);
-      links.push('[' + itemName + '](' + fullPath + ')');
+      links.push('<a href="' + fullPath + '">' + itemName + '</a>');
     }
   });
   return links;
@@ -36,3 +36,4 @@ function print(index){
 
 var markdown = print(index);
 fs.writeFileSync('readme.md', markdown, 'utf-8');
+console.log(markdown);
