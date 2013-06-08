@@ -31,4 +31,4 @@ Hauptgerichte
 * [Saag Chicken](Hauptgerichte/Saag Chicken.md)
 * [Spinat-Käse-Auflauf](Hauptgerichte/Spinat-Käse-Auflauf.md)
 * [Spirellitopf](Hauptgerichte/Spirellitopf.md)
-* [Thai Curry](Hauptgerichte/Thai Curry.md)
+* [Thai Curry (rot)](Hauptgerichte/Thai Curry (rot).md)
