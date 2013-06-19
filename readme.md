@@ -22,6 +22,7 @@ Getränke
 Hauptgerichte
 -------------
 
+* <a href="Hauptgerichte/Bandnudeln mit Spinat.md">Bandnudeln mit Spinat</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
