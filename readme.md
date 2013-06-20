@@ -16,6 +16,7 @@ Desserts
 Getränke
 --------
 
+* <a href="Getränke/Eistees.md">Eistees</a>
 * <a href="Getränke/Masala Chai.md">Masala Chai</a>
 
 
