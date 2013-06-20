@@ -36,3 +36,4 @@ Hauptgerichte
 * <a href="Hauptgerichte/Spirellitopf.md">Spirellitopf</a>
 * <a href="Hauptgerichte/Thai Curry (grün).md">Thai Curry (grün)</a>
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
+* <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
