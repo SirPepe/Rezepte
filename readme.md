@@ -11,6 +11,7 @@ Desserts
 --------
 
 * <a href="Desserts/Kokoseis.md">Kokoseis</a>
+* <a href="Desserts/Vanilleeis.md">Vanilleeis</a>
 
 
 Getränke
@@ -34,6 +35,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
 * <a href="Hauptgerichte/Spinat-Käse-Auflauf.md">Spinat-Käse-Auflauf</a>
 * <a href="Hauptgerichte/Spirellitopf.md">Spirellitopf</a>
+* <a href="Hauptgerichte/Taazi khumben alu mattar kari.md">Taazi khumben alu mattar kari</a>
 * <a href="Hauptgerichte/Thai Curry (grün).md">Thai Curry (grün)</a>
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
