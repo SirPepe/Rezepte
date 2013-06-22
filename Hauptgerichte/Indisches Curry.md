@@ -1,7 +1,7 @@
 Indisches Curry
 ===============
 
-Für 2 Personen:
+Arbeitszeit ca. 1 Stunde, Ruhezeit 1 Stunde oder mehr. Für 2 Personen:
 
 * 400 g Lammfleisch oder Hähnchenbrustfilet
 * 400 g Strauchtomaten
@@ -22,6 +22,3 @@ In einem großen Topf Öl erhitzen, Zwiebeln hinzugeben und leicht anbräunen. K
 Currypulver (pro 200 g Fleisch ca. 1 EL), Salz, Pfeffer, Kurkuma, Kreuzkümmel, nach Geschmack etwas Chili einrühren. Nachdem die Gewürze etwas eingekocht sind, Kokosmilch nach Bedarf unterrühren und nach Geschmack etwas nachwürzen.
 
 Dazu Basmatireis und Chutneys mit Joghurt.
-
-Arbeitszeit ca. 1 Stunde
-Ruhezeit 1 Stunde oder mehr.
