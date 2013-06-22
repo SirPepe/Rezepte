@@ -6,7 +6,7 @@ Universelles Konzentrat
 
 Für ca. 1,5 Liter
 
-* 3 Zitronen oder Orangen
+* 3-4 Zitronen oder Orangen
 * 8 Beutel schwarzer Tee
 * 24g Vanillezucker
 * 0,5 l Wassser
