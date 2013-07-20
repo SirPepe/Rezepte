@@ -1,7 +1,7 @@
 Spinat-Käse-Auflauf
 ===================
 
-Für 4 Personen:
+1 Stunde Arbeitszeit, 25 - 30 Minuten Backzeit. Für 6 Personen:
 
 * 750-1000g TK-Spinat
 * 500g Bandnudeln
