@@ -27,4 +27,4 @@ Danach das gebratene Putenfleisch dazu geben, die Kokosmilch unterrühren, noch 
 
 Dazu passt Basmatireis.
 
-Sollte die Sauce zu stark nach Kokosmilch schmecken, kann mit Brühe bzw. Wasser verdünnt werden. Für mehr Schärft etwas mehr vom Sambal Oelek verwenden bzw. eine Chilischote hinzufügen.
+Sollte die Sauce zu stark nach Kokosmilch schmecken, kann mit Brühe bzw. Wasser verdünnt werden. Für mehr Schärfe etwas mehr vom Sambal Oelek verwenden bzw. eine Chilischote hinzufügen.
