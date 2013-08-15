@@ -11,7 +11,7 @@ Arbeitszeit ca. 30 Minuten. Für 2 Personen:
 * 1,1 Liter Wasser
 * 2 TL Salz
 * 3/4 TL Pfeffer
-Parmesankäse zum Bestreuen
+* Parmesankäse zum Bestreuen
 
 Knoblauch in dünne Scheiben schneiden, Tomaten halbieren, Zwiebel halbieren und in dünne Scheiben schneiden.
 
