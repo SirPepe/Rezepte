@@ -5,7 +5,8 @@ Arbeitszeit ca. 30 Minuten. Für 2 Personen:
 
 * 350 g Spaghetti
 * 350 g Kirschtomaten
-* eine große (rote) Zwiebel
+* 2 große Zwiebeln
+* 4 Knoblauchzehen
 * 2 Zweige Basilikum + einige Blätter zur Garnitur
 * 2 TL Olivenöl
 * 1,1 Liter Wasser
