@@ -33,6 +33,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
 * <a href="Hauptgerichte/Palak Paneer.md">Palak Paneer</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
+* <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin.md">Sardisches Zwei-Käse-Gratin</a>
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
