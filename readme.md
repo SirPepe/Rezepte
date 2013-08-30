@@ -40,6 +40,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Spinat-Käse-Auflauf.md">Spinat-Käse-Auflauf</a>
 * <a href="Hauptgerichte/Spirellitopf.md">Spirellitopf</a>
 * <a href="Hauptgerichte/Taazi khumben alu mattar kari.md">Taazi khumben alu mattar kari</a>
+* <a href="Hauptgerichte/Tagliatelle con pollo e funghi.md">Tagliatelle con pollo e funghi</a>
 * <a href="Hauptgerichte/Thai Curry (grün).md">Thai Curry (grün)</a>
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
