@@ -28,6 +28,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti.md">Ein-Topf-Spaghetti</a>
+* <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
