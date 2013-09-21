@@ -16,6 +16,6 @@ Zubereitungszeit ca. 1 Stunde, für 2 – 3 Personen.
 * Petersilie
 * Olivenöl, Salz, Pfeffer
 
-Zwiebel und Knoblauch fein hacken, Hähnchenfilet in Streifen schneiden. Tagliatelle währenddessen al dente kochen. Zwiebel, Knoblauch, Hähnchenfilet und Schinkenwürfel in Öl anbraten, Pilze dazugeben und etwas Farbe annehmen lassen. Mit Weißwein ablöschen, Brühe, Sahne, Parmesan und Kräuter hinzugeben. Abschmecken, kurz aufkochen lassen, Nudeln reingeben und alles schön vermischen.
+Zwiebel und Knoblauch fein hacken, Hähnchenfilet in Streifen schneiden. Tagliatelle währenddessen al dente kochen. Zwiebel, Knoblauch, Hähnchenfilet und Schinkenwürfel in Öl anbraten, Pilze dazugeben und etwas Farbe annehmen lassen. Mit Weißwein ablöschen, Brühe, Sahne, Parmesan und Kräuter hinzugeben. Abschmecken, kurz aufkochen lassen, Nudeln dazugeben.
 
 Das Gericht mit den Nudeln 2 – 3 Minuten ziehen lassen, auf Teller anrichten und evtl. mit frischem Parmesan bestreuen.
