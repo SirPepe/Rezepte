@@ -1,7 +1,7 @@
 Taazi khumben alu mattar kari
 =============================
 
-Für 4 Personen:
+Für 2-3 Personen:
 
 * 500 g Champignons
 * 500 g kleine Kartoffeln
@@ -19,8 +19,8 @@ Für 4 Personen:
 
 Pilze putzen, eventuell halbieren oder vierteln. Kartoffeln ungeschält waschen, ebenfalls eventuell (ungeschält) halbieren oder vierteln. Zwiebel in dünne Scheibchen schneiden. Ingwer und Knoblauch fein würfeln.
 
-Butterschmalz/Öl in einem Bräter erhitzen, Zwiebelscheibchen 3 min anbraten. Ingwer, Knoblauch und Korianderblätter hinzufügen und weitere 3-4 min rösten, dabei ab und zu umrühren. Kurkuma und Cayennepfeffer zufügen, 1 min rösten und dann Kartoffeln, Pilze und Erbsen (wenn frisch) zufügen. Wasser hinzugießen, salzen und gut umrühren, damit das Gemüse gleichmäßig mit den Röstgewürzen in Kontakt kommt. Zugedeckt bei niedriger Hitze 15 min köcheln, bei Bedarf gelegentlich Wasser nachfüllen.
+Butterschmalz/Öl in einem Bräter erhitzen. Kartoffeln darin anbraten und etwas salzen, dann herausnehmen. Zwiebelscheibchen 3 min anbraten. Ingwer, Knoblauch und Korianderblätter hinzufügen und weitere 3-4 min rösten, dabei ab und zu umrühren. Kurkuma und Cayennepfeffer zufügen, 1 min rösten und dann Kartoffeln, Pilze und Erbsen (wenn frisch) zufügen. Wasser hinzugießen, salzen und gut umrühren, damit das Gemüse gleichmäßig mit den Röstgewürzen in Kontakt kommt. Zugedeckt bei niedriger Hitze 15 min köcheln, bei Bedarf gelegentlich Wasser nachfüllen.
 
-Mit Garam masala bestreuen und erneut gut umrühren. Erbsen (wenn TK) jetzt hinzufügen. Wieder abgedeckt 15 min köcheln, bis die Kartoffeln weich, aber noch fest sind. Bei Bedarf gelegentlich Wasser nachfüllen.
+Mit Garam masala bestreuen und erneut gut umrühren. Erbsen (wenn TK) jetzt hinzufügen. Wieder abgedeckt 10 - 15 min köcheln, bis die Kartoffeln weich, aber noch fest sind. Bei Bedarf gelegentlich Wasser nachfüllen.
 
 Mit Reis oder Naan servieren.
