@@ -48,3 +48,9 @@ Hauptgerichte
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
 * <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika.md">Tortellini-Auflauf mit Blattspinat und Paprika</a>
+
+
+Salate
+------
+
+* <a href="Salate/Westfälischer Kartoffelsalat.md">Westfälischer Kartoffelsalat</a>
