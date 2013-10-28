@@ -9,8 +9,8 @@ Für 4 Personen:
 * 1 Zwiebel
 * 1 Knoblauchzehe
 * 20 g Butter
-* 150 g Gouda
-* 100 ml Sahne
+* 250 g Gouda
+* 200 ml Sahne
 * 1 Bund Basilikum
 * etwas Gemüsebrühe
 * Fett für die Auflaufform
