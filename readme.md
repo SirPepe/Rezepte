@@ -34,6 +34,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
+* <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
 * <a href="Hauptgerichte/Palak Paneer.md">Palak Paneer</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
