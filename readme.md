@@ -30,6 +30,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti.md">Ein-Topf-Spaghetti</a>
 * <a href="Hauptgerichte/Express-Thai-Curry.md">Express-Thai-Curry</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
+* <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat.md">Gefüllte Nudelrolle mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
@@ -49,6 +50,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
 * <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika.md">Tortellini-Auflauf mit Blattspinat und Paprika</a>
+* <a href="Hauptgerichte/Wintersalat (Afrikanische Paprikapfanne).md">Wintersalat (Afrikanische Paprikapfanne)</a>
 
 
 Salate
