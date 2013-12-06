@@ -57,3 +57,9 @@ Salate
 ------
 
 * <a href="Salate/Westfälischer Kartoffelsalat.md">Westfälischer Kartoffelsalat</a>
+
+
+Vorspeisen
+----------
+
+* <a href="Vorspeisen/Masur Dal.md">Masur Dal</a>
