@@ -31,6 +31,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Express-Thai-Curry.md">Express-Thai-Curry</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat.md">Gefüllte Nudelrolle mit Spinat</a>
+* <a href="Hauptgerichte/Hähnchen-Champignonauflauf.md">Hähnchen-Champignonauflauf</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
@@ -39,6 +40,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Palak Paneer.md">Palak Paneer</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
+* <a href="Hauptgerichte/Pizza-Basis.md">Pizza-Basis</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin.md">Sardisches Zwei-Käse-Gratin</a>
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
