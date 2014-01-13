@@ -11,6 +11,7 @@ Desserts
 --------
 
 * <a href="Desserts/Kokoseis.md">Kokoseis</a>
+* <a href="Desserts/Kokospudding.md">Kokospudding</a>
 * <a href="Desserts/Vanilleeis.md">Vanilleeis</a>
 
 
