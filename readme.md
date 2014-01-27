@@ -27,6 +27,7 @@ Hauptgerichte
 
 * <a href="Hauptgerichte/Bandnudeln mit Spinat.md">Bandnudeln mit Spinat</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
+* <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe.md">Buttergemüse-Kartoffel-Suppe</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti.md">Ein-Topf-Spaghetti</a>
 * <a href="Hauptgerichte/Express-Thai-Curry.md">Express-Thai-Curry</a>
