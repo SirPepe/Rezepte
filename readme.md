@@ -55,6 +55,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
 * <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika.md">Tortellini-Auflauf mit Blattspinat und Paprika</a>
 * <a href="Hauptgerichte/Wintersalat (Afrikanische Paprikapfanne).md">Wintersalat (Afrikanische Paprikapfanne)</a>
+* <a href="Hauptgerichte/Überbackene Gemüsenudeln.md">Überbackene Gemüsenudeln</a>
 
 
 Salate
