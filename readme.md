@@ -45,6 +45,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
 * <a href="Hauptgerichte/Pizza-Basis.md">Pizza-Basis</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
+* <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
 * <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin.md">Sardisches Zwei-Käse-Gratin</a>
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
 * <a href="Hauptgerichte/Spinat-Käse-Auflauf.md">Spinat-Käse-Auflauf</a>
