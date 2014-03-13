@@ -34,6 +34,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat.md">Gefüllte Nudelrolle mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchen-Champignonauflauf.md">Hähnchen-Champignonauflauf</a>
+* <a href="Hauptgerichte/Hähnchen-Pilaw mit Spinat.md">Hähnchen-Pilaw mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
 * <a href="Hauptgerichte/Indisches Curry.md">Indisches Curry</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
