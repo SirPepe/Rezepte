@@ -12,7 +12,7 @@ Einfach und schnell.
 * Olivenöl, Gemüsebrühepulver
 * Salz, Pfeffer, Paprikapulver
 * 1 Liter Wasser
-* ggf. 1 Glas Würstchen
+* Optional: 1 Glas Würstchen
 
 Die Kartoffeln schälen und anschließend in kleine Würfel schneiden. Die Zwiebel und die Knoblauchzehen ebenfalls in Würfel schneiden.
 

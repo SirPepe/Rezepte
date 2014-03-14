@@ -27,12 +27,12 @@ Hauptgerichte
 
 * <a href="Hauptgerichte/Bandnudeln mit Spinat [V].md">Bandnudeln mit Spinat [V]</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
-* <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe.md">Buttergemüse-Kartoffel-Suppe</a>
+* <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe [oV].md">Buttergemüse-Kartoffel-Suppe [oV]</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti [V].md">Ein-Topf-Spaghetti [V]</a>
-* <a href="Hauptgerichte/Express-Thai-Curry.md">Express-Thai-Curry</a>
+* <a href="Hauptgerichte/Express-Thai-Curry [oV].md">Express-Thai-Curry [oV]</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
-* <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat.md">Gefüllte Nudelrolle mit Spinat</a>
+* <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat [oV].md">Gefüllte Nudelrolle mit Spinat [oV]</a>
 * <a href="Hauptgerichte/Hähnchen-Champignonauflauf.md">Hähnchen-Champignonauflauf</a>
 * <a href="Hauptgerichte/Hähnchen-Pilaw mit Spinat.md">Hähnchen-Pilaw mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
@@ -45,7 +45,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Palak Paneer [V].md">Palak Paneer [V]</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
-* <a href="Hauptgerichte/Pizza-Basis.md">Pizza-Basis</a>
+* <a href="Hauptgerichte/Pizza-Basis [oV].md">Pizza-Basis [oV]</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
 * <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin [V].md">Sardisches Zwei-Käse-Gratin [V]</a>
