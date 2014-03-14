@@ -4,7 +4,7 @@ Rezepte
 Beilagen
 --------
 
-* <a href="Beilagen/Naan.md">Naan</a>
+* <a href="Beilagen/Naan [V].md">Naan [V]</a>
 
 
 Desserts
@@ -65,10 +65,10 @@ Hauptgerichte
 Salate
 ------
 
-* <a href="Salate/Westfälischer Kartoffelsalat.md">Westfälischer Kartoffelsalat</a>
+* <a href="Salate/Westfälischer Kartoffelsalat [V].md">Westfälischer Kartoffelsalat [V]</a>
 
 
 Vorspeisen
 ----------
 
-* <a href="Vorspeisen/Masur Dal.md">Masur Dal</a>
+* <a href="Vorspeisen/Masur Dal [V].md">Masur Dal [V]</a>
