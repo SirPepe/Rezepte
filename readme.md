@@ -41,6 +41,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Kartoffelauflauf mit Kochschinken und Blattspinat.md">Kartoffelauflauf mit Kochschinken und Blattspinat</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
 * <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
+* <a href="Hauptgerichte/Ofenpfannkuchen mit Gemüse und Feta [V].md">Ofenpfannkuchen mit Gemüse und Feta [V]</a>
 * <a href="Hauptgerichte/Palak Paneer.md">Palak Paneer</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
