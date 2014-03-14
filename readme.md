@@ -25,11 +25,11 @@ Getränke
 Hauptgerichte
 -------------
 
-* <a href="Hauptgerichte/Bandnudeln mit Spinat.md">Bandnudeln mit Spinat</a>
+* <a href="Hauptgerichte/Bandnudeln mit Spinat [V].md">Bandnudeln mit Spinat [V]</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
 * <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe.md">Buttergemüse-Kartoffel-Suppe</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
-* <a href="Hauptgerichte/Ein-Topf-Spaghetti.md">Ein-Topf-Spaghetti</a>
+* <a href="Hauptgerichte/Ein-Topf-Spaghetti [V].md">Ein-Topf-Spaghetti [V]</a>
 * <a href="Hauptgerichte/Express-Thai-Curry.md">Express-Thai-Curry</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat.md">Gefüllte Nudelrolle mit Spinat</a>
@@ -42,24 +42,24 @@ Hauptgerichte
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
 * <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
 * <a href="Hauptgerichte/Ofenpfannkuchen mit Gemüse und Feta [V].md">Ofenpfannkuchen mit Gemüse und Feta [V]</a>
-* <a href="Hauptgerichte/Palak Paneer.md">Palak Paneer</a>
+* <a href="Hauptgerichte/Palak Paneer [V].md">Palak Paneer [V]</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
 * <a href="Hauptgerichte/Pizza-Basis.md">Pizza-Basis</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
-* <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin.md">Sardisches Zwei-Käse-Gratin</a>
+* <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin [V].md">Sardisches Zwei-Käse-Gratin [V]</a>
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
 * <a href="Hauptgerichte/Spinat-Käse-Auflauf.md">Spinat-Käse-Auflauf</a>
 * <a href="Hauptgerichte/Spirellitopf.md">Spirellitopf</a>
-* <a href="Hauptgerichte/Taazi khumben alu mattar kari.md">Taazi khumben alu mattar kari</a>
+* <a href="Hauptgerichte/Taazi khumben alu mattar kari [V].md">Taazi khumben alu mattar kari [V]</a>
 * <a href="Hauptgerichte/Tagliatelle con pollo e funghi.md">Tagliatelle con pollo e funghi</a>
 * <a href="Hauptgerichte/Thai Curry (grün).md">Thai Curry (grün)</a>
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
-* <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika.md">Tortellini-Auflauf mit Blattspinat und Paprika</a>
-* <a href="Hauptgerichte/Wintersalat (Afrikanische Paprikapfanne).md">Wintersalat (Afrikanische Paprikapfanne)</a>
-* <a href="Hauptgerichte/Überbackene Gemüsenudeln.md">Überbackene Gemüsenudeln</a>
+* <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika [V].md">Tortellini-Auflauf mit Blattspinat und Paprika [V]</a>
+* <a href="Hauptgerichte/Wintersalat (Afrikanische Paprikapfanne) [V].md">Wintersalat (Afrikanische Paprikapfanne) [V]</a>
+* <a href="Hauptgerichte/Überbackene Gemüsenudeln [V].md">Überbackene Gemüsenudeln [V]</a>
 
 
 Salate
