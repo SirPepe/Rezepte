@@ -33,6 +33,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Express-Thai-Curry [oV].md">Express-Thai-Curry [oV]</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat [oV].md">Gefüllte Nudelrolle mit Spinat [oV]</a>
+* <a href="Hauptgerichte/Hähnchen mit Aprikosen-Biersoße.md">Hähnchen mit Aprikosen-Biersoße</a>
 * <a href="Hauptgerichte/Hähnchen-Champignonauflauf.md">Hähnchen-Champignonauflauf</a>
 * <a href="Hauptgerichte/Hähnchen-Pilaw mit Spinat.md">Hähnchen-Pilaw mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
