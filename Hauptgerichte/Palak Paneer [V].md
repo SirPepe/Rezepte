@@ -1,7 +1,7 @@
 Palak Paneer
 ============
 
-Arbeitszeit ca. 45 Mionuten, Ruhezeit 2 Stunden. Für 2 Personen:
+Arbeitszeit ca. 45 Minuten, Ruhezeit 2 Stunden. Für 2 Personen:
 
  * 2 l Milch
  * 6 EL Zitronensaft
