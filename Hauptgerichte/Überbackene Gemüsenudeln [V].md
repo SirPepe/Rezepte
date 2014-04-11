@@ -13,14 +13,33 @@
 * 10 g Butter oder Margarine
 * 2 Packungen Mozzarella-Käse light
 * Thymian zum Garnieren
-* 1 Dose Schmand
 * 1 EL Mehl (ca. 15 g)
 * Olivenöl, Salz, Pfeffer, Paprika
 
-Bandnudeln in gesalzenem Wasser garen, abgießen, abschrecken und gut abtropfen lassen. Feuerfeste Form fetten, Nudeln hineingeben.
+Zwiebel und Knoblauch schälen würfeln. Olivenöl in einem Topf erhitzen, Zwiebel
+und Knoblauch darin andünsten. Mit Mehl bestäuben, kurz anschwitzen und mit
+Brühe ablöschen.
 
-Zwiebel und Knoblauchzehe schälen und fein hacken. In wenig Fett die Zwiebel und Knoblauchwürfel glasig braten. Spinat und Wasser zufügen. Etwa 10 Minuten bei kleiner Hitze auftauen lassen.
+Tomaten in der Dose mit einem langen Messer grob zerschneiden und zusammen mit
+dem Tomatenmark zufügen. Mit Salz, Pfeffer, Paprika und Pizzagewürz würzen,
+aufkochen und 6-8 Minuten köcheln lassen.
 
-Mehl mit dem Schmand verquirlen und in den Spinat rühren. 5 Minuten kochen lassen. Mit Salz, Pfeffer, Muskat und Zucker nach Belieben abschmecken.
+Nudeln in kochendem Salzwasser nach Packungsanweisung zubereiten.
 
-Spinatmasse auf die Nudeln verteilen und darauf die Käsescheiben legen. Form in den vorgeheizten Backofen stellen (Umluft ca. 175°C) und ca. 10-20 Minuten überbacken.
+Broccoli putzen, waschen und in Röschen teilen. Stiel schälen und würfeln. Ca.
+3-4 Minuten vor Ende der Garzeit zu den Nudeln geben und mitkochen. Nudeln und
+Broccoli auf ein Sieb gießen, kurz unter kaltem Wasser abschrecken und gut
+abtropfen lassen.
+
+Champignons putzen, säubern und halbieren. Fett in einer beschichteten Pfanne
+erhitzen und die Champignons unter Wenden goldbraun braten. Mit Salz und Pfeffer
+würzen.
+
+Mozzarella in Scheiben schneiden.
+
+Auflaufform fetten. Broccoli-Nudeln, Champignons mischen und einfüllen. Heiße
+Tomatensoße darübergießen und mit dem Mozzarella belegen.
+
+Im vorgeheizten Backofen (Umluft: 175 °C) ca. 25 Minuten backen.
+
+Mit Thymian garniert servieren.
