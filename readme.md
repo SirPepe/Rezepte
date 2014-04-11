@@ -65,6 +65,10 @@ Hauptgerichte
 Salate
 ------
 
+* <a href="Salate/Bunter Reissalat.md">Bunter Reissalat</a>
+* <a href="Salate/Reissalat mit Thunfisch.md">Reissalat mit Thunfisch</a>
+* <a href="Salate/Spaghettisalat.md">Spaghettisalat</a>
+* <a href="Salate/Tortellinisalat.md">Tortellinisalat</a>
 * <a href="Salate/Westfälischer Kartoffelsalat [V].md">Westfälischer Kartoffelsalat [V]</a>
 
 
