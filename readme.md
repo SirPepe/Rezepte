@@ -52,6 +52,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Sardisches Zwei-Käse-Gratin [V].md">Sardisches Zwei-Käse-Gratin [V]</a>
 * <a href="Hauptgerichte/Schnelle Hühnchen-Paprika-Pfanne.md">Schnelle Hühnchen-Paprika-Pfanne</a>
 * <a href="Hauptgerichte/Spinat-Käse-Auflauf.md">Spinat-Käse-Auflauf</a>
+* <a href="Hauptgerichte/Spinatlasagne (V).md">Spinatlasagne (V)</a>
 * <a href="Hauptgerichte/Spirellitopf.md">Spirellitopf</a>
 * <a href="Hauptgerichte/Taazi khumben alu mattar kari [V].md">Taazi khumben alu mattar kari [V]</a>
 * <a href="Hauptgerichte/Tagliatelle con pollo e funghi.md">Tagliatelle con pollo e funghi</a>
