@@ -26,6 +26,7 @@ Hauptgerichte
 -------------
 
 * <a href="Hauptgerichte/Bandnudeln mit Spinat [V].md">Bandnudeln mit Spinat [V]</a>
+* <a href="Hauptgerichte/Banjan Boranee.md">Banjan Boranee</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
 * <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe [oV].md">Buttergemüse-Kartoffel-Suppe [oV]</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
