@@ -25,6 +25,7 @@ Getränke
 Hauptgerichte
 -------------
 
+* <a href="Hauptgerichte/Backofengemuese mit Schafskäse [V].md">Backofengemuese mit Schafskäse [V]</a>
 * <a href="Hauptgerichte/Bandnudeln mit Spinat [V].md">Bandnudeln mit Spinat [V]</a>
 * <a href="Hauptgerichte/Banjan Boranee.md">Banjan Boranee</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
