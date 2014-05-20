@@ -1,6 +1,23 @@
 Nudelsoßen
 ==========
 
+Champignonsoße
+--------------
+
+* 250 g Champignons
+* 1 Zwiebel
+* 1 Zehe Knoblauch?)
+* 150 g Frischkäse
+* 1 EL TK-8-Kräuter
+* 250 ml Sahne
+* 1 EL Butter
+* etwas Cognac
+* Salz und Pfeffer
+
+Champignons in Scheiben schneiden, Zwiebel und Knoblauch fein hacken. Alles in
+der Butter anbraten. Cognac, Sahne, Kräuter und Frischkäse dazugeben, erhitzen
+und abschmecken.
+
 Simple Thunfischsoße
 --------------------
 
