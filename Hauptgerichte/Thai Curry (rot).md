@@ -6,7 +6,7 @@ Für 4 Personen. Zubereitungszeit ca. 1 Stunde.
 * 500 g Putenbrustfilet
 * 1 rote Paprikaschote
 * 1 Zucchini
-* 1 große Karotte
+* 2 große Karotten
 * 200 g Zuckerschoten
 * 1 Dose Kokosmilch (ca. 400 ml)
 * rote Currypaste
