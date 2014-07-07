@@ -40,7 +40,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Hähnchen-Pilaw mit Spinat.md">Hähnchen-Pilaw mit Spinat</a>
 * <a href="Hauptgerichte/Hähnchenfilets in Pilz-Paprika-Rahm.md">Hähnchenfilets in Pilz-Paprika-Rahm</a>
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
-* <a href="Hauptgerichte/Kartoffelauflauf mit Kochschinken und Blattspinat.md">Kartoffelauflauf mit Kochschinken und Blattspinat</a>
+* <a href="Hauptgerichte/Kartoffelauflauf mit Blattspinat [V].md">Kartoffelauflauf mit Blattspinat [V]</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
 * <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
 * <a href="Hauptgerichte/Nudelsoßen.md">Nudelsoßen</a>
