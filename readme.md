@@ -32,6 +32,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe [oV].md">Buttergemüse-Kartoffel-Suppe [oV]</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti [V].md">Ein-Topf-Spaghetti [V]</a>
+* <a href="Hauptgerichte/Erdnusseintopf [V].md">Erdnusseintopf [V]</a>
 * <a href="Hauptgerichte/Express-Thai-Curry [oV].md">Express-Thai-Curry [oV]</a>
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat [oV].md">Gefüllte Nudelrolle mit Spinat [oV]</a>
