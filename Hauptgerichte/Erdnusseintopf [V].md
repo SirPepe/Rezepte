@@ -1,5 +1,5 @@
-Ernusseintopf
-=============
+Erdnusseintopf
+==============
 
 * 1/2 Weißkohl
 * 2 Möhren
