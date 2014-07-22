@@ -25,6 +25,7 @@ Getränke
 Hauptgerichte
 -------------
 
+* <a href="Hauptgerichte/Afghanische Tortellini [oV].md">Afghanische Tortellini [oV]</a>
 * <a href="Hauptgerichte/Backofengemuese mit Schafskäse [V].md">Backofengemuese mit Schafskäse [V]</a>
 * <a href="Hauptgerichte/Bandnudeln mit Spinat [V].md">Bandnudeln mit Spinat [V]</a>
 * <a href="Hauptgerichte/Banjan Boranee.md">Banjan Boranee</a>
@@ -48,7 +49,6 @@ Hauptgerichte
 * <a href="Hauptgerichte/Ofenpfannkuchen mit Gemüse und Feta [V].md">Ofenpfannkuchen mit Gemüse und Feta [V]</a>
 * <a href="Hauptgerichte/Palak Paneer [V].md">Palak Paneer [V]</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
-* <a href="Hauptgerichte/Pikanter Reistopf.md">Pikanter Reistopf</a>
 * <a href="Hauptgerichte/Pizza-Basis [oV].md">Pizza-Basis [oV]</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
