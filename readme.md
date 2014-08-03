@@ -49,6 +49,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Ofenpfannkuchen mit Gemüse und Feta [V].md">Ofenpfannkuchen mit Gemüse und Feta [V]</a>
 * <a href="Hauptgerichte/Palak Paneer [V].md">Palak Paneer [V]</a>
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
+* <a href="Hauptgerichte/Pilzauflauf.md">Pilzauflauf</a>
 * <a href="Hauptgerichte/Pizza-Basis [oV].md">Pizza-Basis [oV]</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
