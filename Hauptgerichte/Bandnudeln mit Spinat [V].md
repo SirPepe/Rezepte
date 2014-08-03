@@ -9,7 +9,7 @@ Für vier Personen
 * 300 g TK-Spinat
 * 1 EL Mehl
 * ¼ l Schmand
-* 200 g Emmentaler Schmelzkäse in Scheiben
+* 200 g gerieber Gouda
 * 100 ml Wasser
 * Salz, Pfeffer, Öl, Muskat
 
@@ -19,4 +19,4 @@ Zwiebel und Knoblauchzehe schälen und fein hacken. Speck fein würfeln. In weni
 
 Mehl mit dem Schmand verquirlen und in den Spinat rühren. 5 Minuten kochen lassen. Mit Salz, Pfeffer und Muskat dezent abschmecken.
 
-Spinatmasse auf die Nudeln verteilen und darauf die Käsescheiben legen. Form in den vorgeheizten Backofen stellen (Umluft ca. 175°C) und ca. 10-20 Minuten überbacken.
+Spinatmasse auf die Nudeln verteilen und darauf den Käse verteilen. Form in den vorgeheizten Backofen stellen (Umluft ca. 175°C) und ca. 10-20 Minuten überbacken.
