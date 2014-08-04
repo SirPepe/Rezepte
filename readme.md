@@ -79,6 +79,12 @@ Salate
 * <a href="Salate/Westfälischer Kartoffelsalat [V].md">Westfälischer Kartoffelsalat [V]</a>
 
 
+Süßkram
+-------
+
+* <a href="Süßkram/Apfelwaffeln.md">Apfelwaffeln</a>
+
+
 Vorspeisen
 ----------
 
