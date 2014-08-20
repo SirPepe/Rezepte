@@ -23,6 +23,6 @@ Möhren schälen und Paprika putzen. Beiden in sehr feine Streifen schneiden. La
 
 Mehl, Backpulver, Eier, Milch, Mineralwasser und ca. ½ TL Salz zu einem glatten Teig verrühren. Gleichmäßig auf das heiße Backblech gießen. Mit Gemüse und Feta bestreuen und ca. 15-20 Minuten backen.
 
-Kräuter waschen, trocknen und fein schneiden. Mit Schnad verrühren und mit Salz und Pfeffer abschmecken.
+Kräuter waschen, trocknen und fein schneiden. Mit Schmand verrühren und mit Salz und Pfeffer abschmecken.
 
 Pfannkuchen mithilfe des Backpapiert von der schmaleren Seite her aufrollen und in Stücke schneiden. Mit dem Kräuterschmand servieren.
