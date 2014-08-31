@@ -3,12 +3,12 @@ Brüsseler Vanillewaffeln
 
 * 250 g Butter
 * 100 g Zucker
-* 2 Päckchen Vanillezucker
+* 2 Päckchen Bourbon-Vanillezucker
 * 1 Prise Salz
 * 6 Eier
-* 400 ml Milch
-* 100 ml Speisestärke
-* 500 g Mehl
+* 500 ml Milch
+* 400 g Mehl
+* 100 g Speisestärke
 * 2 gestr. TL Backpulver
 * 1 Päckchen Bourbon-Vanille-Aroma
 * etwas Rum
