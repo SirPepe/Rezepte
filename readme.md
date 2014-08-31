@@ -84,6 +84,7 @@ Süßkram
 -------
 
 * <a href="Süßkram/Apfelwaffeln.md">Apfelwaffeln</a>
+* <a href="Süßkram/Brüsseler Vanillewaffeln.md">Brüsseler Vanillewaffeln</a>
 
 
 Vorspeisen
