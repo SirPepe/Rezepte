@@ -10,7 +10,7 @@ Für vier Personen. Zubereitungszeit ca. 1 Stunde
 * 3 cm Ingwer
 * 300 ml Sherry
 * 400 ml Kokosmilch
-* 1 TL Sambal Olek
+* 1/2 TL Sambal Olek
 * 2 TL gelbe Currypaste
 * 2 EL Fischsauce
 * Öl, Salz, Pfeffer
