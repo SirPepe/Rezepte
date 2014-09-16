@@ -4,14 +4,13 @@
 * 1 Zwiebel
 * 2 Knoblauchzehen
 * 1/8 l Gemüsebrühe
-* 1 goße Dose (850 ml) Tomaten
+* 2 Dosen gehackte Tomaten
 * 1 EL Tomatenmark
 * 2 TL Pizzagewürz (ital. Kräuter + Oregano)
 * 200 g Nudeln (z. B. Penne Rigate)
 * 500 g Broccoli
 * 500 g Champignons
-* 10 g Butter oder Margarine
-* 2 Packungen Mozzarella-Käse light
+* 2 Packungen Mozzarella-Käse
 * Thymian zum Garnieren
 * 1 EL Mehl (ca. 15 g)
 * Olivenöl, Salz, Pfeffer, Paprika
@@ -20,9 +19,8 @@ Zwiebel und Knoblauch schälen würfeln. Olivenöl in einem Topf erhitzen, Zwieb
 und Knoblauch darin andünsten. Mit Mehl bestäuben, kurz anschwitzen und mit
 Brühe ablöschen.
 
-Tomaten in der Dose mit einem langen Messer grob zerschneiden und zusammen mit
-dem Tomatenmark zufügen. Mit Salz, Pfeffer, Paprika und Pizzagewürz würzen,
-aufkochen und 6-8 Minuten köcheln lassen.
+Tomaten und Tomatenmark zufügen. Mit Salz, Pfeffer, Paprika und Pizzagewürz
+würzen, aufkochen und 6-8 Minuten köcheln lassen.
 
 Nudeln in kochendem Salzwasser nach Packungsanweisung zubereiten.
 
