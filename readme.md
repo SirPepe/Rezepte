@@ -4,6 +4,7 @@ Rezepte
 Beilagen
 --------
 
+* <a href="Beilagen/Kokosmilch-Reis [V].md">Kokosmilch-Reis [V]</a>
 * <a href="Beilagen/Naan [V].md">Naan [V]</a>
 
 
