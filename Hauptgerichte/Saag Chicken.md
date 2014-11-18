@@ -17,7 +17,6 @@ Ca. 1 Stunde. Für vier Personen:
 * 1 EL Butter
 * ¾ TL Cayennepfeffer
 * ¾ TL Korianderpulver
-* ¾ TL Kurkuma
 * 1 ½ TL Garam Masala
 * Salz, Öl
 
