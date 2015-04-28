@@ -33,6 +33,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Banjan Boranee.md">Banjan Boranee</a>
 * <a href="Hauptgerichte/Bunter Nudelauflauf mit Mozzarella.md">Bunter Nudelauflauf mit Mozzarella</a>
 * <a href="Hauptgerichte/Buttergemüse-Kartoffel-Suppe [oV].md">Buttergemüse-Kartoffel-Suppe [oV]</a>
+* <a href="Hauptgerichte/Champignons in Kokosmilch.md">Champignons in Kokosmilch</a>
 * <a href="Hauptgerichte/Chili-Rindfleisch-Topf.md">Chili-Rindfleisch-Topf</a>
 * <a href="Hauptgerichte/Ein-Topf-Spaghetti [V].md">Ein-Topf-Spaghetti [V]</a>
 * <a href="Hauptgerichte/Erdnusseintopf [V].md">Erdnusseintopf [V]</a>
