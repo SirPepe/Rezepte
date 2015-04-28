@@ -13,7 +13,7 @@ Für 4 Portionen:
 * 1 TL Salz
 * etwas Öl
 
-Die Zwiebel fein hacken. Das Öl in einer Pfanne erhitzen und Zwiebeln, augeschnittene Kardamomkapseln, Lorbeer und Nelken glasig anchwitzen. Reis begeben und umrühren, mit der Kokosmilch ablöschen.
+Die Zwiebel fein hacken. Das Öl in einer Pfanne erhitzen und Zwiebeln, aufgeschnittene Kardamomkapseln, Lorbeer und Nelken glasig anchwitzen. Reis begeben und umrühren, mit der Kokosmilch ablöschen.
 
 Salz und Wasser dazugeben und auf kleiner Hitze zugedeckt und bei gelegentlichem Umrühren köcheln lassen, bis keine Flüssigkeit mehr übrig ist.
 
