@@ -6,7 +6,8 @@ Für 4 Personen:
 * 500g Rinderhack
 * 1 Dose gehackte Tomaten
 * 2-3 Zuccini
-* 2 kleine Tomaten
+* 150g Frischkäse
+* 2 Tomaten
 * 1 Mozzarella
 * 5 Frühlingszwiebeln
 * 3 Zehen Knoblauch
