@@ -42,6 +42,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat [oV].md">Gefüllte Nudelrolle mit Spinat [oV]</a>
 * <a href="Hauptgerichte/Gemüseeintopf mit Kokosmilch [V].md">Gemüseeintopf mit Kokosmilch [V]</a>
 * <a href="Hauptgerichte/Hackfleischpfanne mit Tomaten und Gemüse.md">Hackfleischpfanne mit Tomaten und Gemüse</a>
+* <a href="Hauptgerichte/Heißer Kartoffelsalat [V].md">Heißer Kartoffelsalat [V]</a>
 * <a href="Hauptgerichte/Hähnchen mit Aprikosen-Biersoße.md">Hähnchen mit Aprikosen-Biersoße</a>
 * <a href="Hauptgerichte/Hähnchen-Champignonauflauf.md">Hähnchen-Champignonauflauf</a>
 * <a href="Hauptgerichte/Hähnchen-Pilaw mit Spinat.md">Hähnchen-Pilaw mit Spinat</a>
