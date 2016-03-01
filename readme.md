@@ -58,7 +58,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Pfefferrahmgeschnetzeltes zu Bandnudeln.md">Pfefferrahmgeschnetzeltes zu Bandnudeln</a>
 * <a href="Hauptgerichte/Pilzauflauf.md">Pilzauflauf</a>
 * <a href="Hauptgerichte/Pizza-Basis [oV].md">Pizza-Basis [oV]</a>
-* <a href="Hauptgerichte/PuPaPi.md">PuPaPi</a>
+* <a href="Hauptgerichte/PuPiPa.md">PuPiPa</a>
 * <a href="Hauptgerichte/Putengeschnetzeltes-in-Kokosmilch.md">Putengeschnetzeltes-in-Kokosmilch</a>
 * <a href="Hauptgerichte/Saag Chicken.md">Saag Chicken</a>
 * <a href="Hauptgerichte/Salbei-Hähnchenstreifen mit Bohnengemüse.md">Salbei-Hähnchenstreifen mit Bohnengemüse</a>
