@@ -51,6 +51,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Kartoffelauflauf mit Blattspinat [V].md">Kartoffelauflauf mit Blattspinat [V]</a>
 * <a href="Hauptgerichte/Kartoffelpizza [V].md">Kartoffelpizza [V]</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
+* <a href="Hauptgerichte/Mediterraner Fischeintopf.md">Mediterraner Fischeintopf</a>
 * <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
 * <a href="Hauptgerichte/Nudelsoßen.md">Nudelsoßen</a>
 * <a href="Hauptgerichte/Ofenpfannkuchen mit Gemüse und Feta [V].md">Ofenpfannkuchen mit Gemüse und Feta [V]</a>
