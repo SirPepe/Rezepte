@@ -41,6 +41,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Fruchtiges Thai-Curry.md">Fruchtiges Thai-Curry</a>
 * <a href="Hauptgerichte/Gefüllte Nudelrolle mit Spinat [oV].md">Gefüllte Nudelrolle mit Spinat [oV]</a>
 * <a href="Hauptgerichte/Gemüseeintopf mit Kokosmilch [V].md">Gemüseeintopf mit Kokosmilch [V]</a>
+* <a href="Hauptgerichte/Grillgemüse[V].md">Grillgemüse[V]</a>
 * <a href="Hauptgerichte/Hackfleischpfanne mit Tomaten und Gemüse.md">Hackfleischpfanne mit Tomaten und Gemüse</a>
 * <a href="Hauptgerichte/Heißer Kartoffelsalat [V].md">Heißer Kartoffelsalat [V]</a>
 * <a href="Hauptgerichte/Hähnchen mit Aprikosen-Biersoße.md">Hähnchen mit Aprikosen-Biersoße</a>
@@ -50,6 +51,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Kartoffel-Spinat-Curry.md">Kartoffel-Spinat-Curry</a>
 * <a href="Hauptgerichte/Kartoffelauflauf mit Blattspinat [V].md">Kartoffelauflauf mit Blattspinat [V]</a>
 * <a href="Hauptgerichte/Kartoffelpizza [V].md">Kartoffelpizza [V]</a>
+* <a href="Hauptgerichte/Känguruh-Dip a la Neffs WG[V].md">Känguruh-Dip a la Neffs WG[V]</a>
 * <a href="Hauptgerichte/Lachs auf Blattspinat mit Knoblauchkartoffeln.md">Lachs auf Blattspinat mit Knoblauchkartoffeln</a>
 * <a href="Hauptgerichte/Mediterraner Fischeintopf.md">Mediterraner Fischeintopf</a>
 * <a href="Hauptgerichte/Murg Kari.md">Murg Kari</a>
