@@ -14,8 +14,8 @@ Für 4 große Portionen, Arbeitszeit ca. 45 Min.
 * 1 Zwiebel(n) (Gemüsezwiebel)
 * 2 Möhre(n)
 * 2 Lorbeerblätter
-*  	Olivenöl
-*  	Salz und Pfeffer
+* Olivenöl
+* Salz und Pfeffer
 
 
 Lammfilet vom Restfett befreien und in Scheiben von circa 1 cm schneiden. Mit Olivenöl, gepresstem Knoblauch, fein gehackten Salbeiblättern, Salz und Pfeffer marinieren und circa 1 Stunde auf Zimmertemperatur ziehen lassen. 
