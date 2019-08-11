@@ -81,6 +81,7 @@ Hauptgerichte
 * <a href="Hauptgerichte/Thai Curry (rot).md">Thai Curry (rot)</a>
 * <a href="Hauptgerichte/Thunfisch-Nudelauflauf.md">Thunfisch-Nudelauflauf</a>
 * <a href="Hauptgerichte/Tortellini-Auflauf mit Blattspinat und Paprika [V].md">Tortellini-Auflauf mit Blattspinat und Paprika [V]</a>
+* <a href="Hauptgerichte/Vegetarische Minestrone [V].md">Vegetarische Minestrone [V]</a>
 * <a href="Hauptgerichte/Wintersalat (Afrikanische Paprikapfanne) [V].md">Wintersalat (Afrikanische Paprikapfanne) [V]</a>
 * <a href="Hauptgerichte/Zucchini-Auflauf.md">Zucchini-Auflauf</a>
 * <a href="Hauptgerichte/Überbackene Gemüsenudeln [V].md">Überbackene Gemüsenudeln [V]</a>
