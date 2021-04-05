@@ -1,13 +1,13 @@
 Spinatlasagne
 =============
 
-* 1 kg Blattspinat
+* 1,2 kg Blattspinat
 * 4 - 5 Zwiebeln
 * 15 - 20 Lasagnenudeln
 * 3 Knoblauchzehen
 * 40g Mehl
-* 1250 ml Milch
-* 300 g Sahneschmelzkäse
+* 1 Liter Milch
+* 200 g Sahneschmelzkäse
 * 45 g Butter
 * Gemüsebrühe
 * Gouda zum Bestreuen
